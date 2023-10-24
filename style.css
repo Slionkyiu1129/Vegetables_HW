@@ -1,4 +1,4 @@
-html{
+.html{
     background: var(--background, #EDF2C5);
     box-sizing:border-box;
     width: 1440px;
